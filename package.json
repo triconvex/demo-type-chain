@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js"
+  }
+}
